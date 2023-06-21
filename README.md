@@ -6,7 +6,7 @@ This is a PyTorch implementation of the paper: Evolutionary Neural Architecture 
 
 ### Multivariate time series datasets
 
-Download Exchange-rate, Electricity datasets from [https://github.com/LiuZH-19/ESG](https://github.com/LiuZH-19/ESG).Move them into the data folder.
+Download Exchange-rate, Electricity datasets from [https://github.com/LiuZH-19/ESG](https://github.com/LiuZH-19/ESG). Move them into the data folder.
 
 ### Traffic datasets
 
